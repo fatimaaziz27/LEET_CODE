@@ -7,9 +7,11 @@ class Solution {
                 insertpos++;
             }
         }
+
         while(insertpos < nums.length){
             nums[insertpos] = 0;
             insertpos++;
         }
+        
     }
 }
