@@ -13,9 +13,6 @@ class Solution {
 
             for (int j = 1; j < strs.length; j++) {
 
-                // If the current string is shorter
-                // OR the character doesn't match,
-                // return the prefix found so far.
                 if (i == strs[j].length() || strs[j].charAt(i) != currentChar) {
                     return first.substring(0, i);
                 }
