@@ -7,12 +7,10 @@ class Solution {
 
         String first = strs[0];
 
-        // Check each character of the first string.
         for (int i = 0; i < first.length(); i++) {
 
             char currentChar = first.charAt(i);
 
-            // Compare this character with all other strings.
             for (int j = 1; j < strs.length; j++) {
 
                 // If the current string is shorter
