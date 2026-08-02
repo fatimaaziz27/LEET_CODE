@@ -4,9 +4,7 @@ class Solution {
         if (strs == null || strs.length == 0) {
             return "";
         }
-
         String first = strs[0];
-
         for (int i = 0; i < first.length(); i++) {
 
             char currentChar = first.charAt(i);
@@ -19,7 +17,6 @@ class Solution {
             }
         }
 
-        // If all characters matched, the first string is the common prefix.
         return first;
     }
 }
