@@ -1,12 +1,10 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
 
-        // If the array is empty, return an empty string.
         if (strs == null || strs.length == 0) {
             return "";
         }
 
-        // Take the first string as the reference.
         String first = strs[0];
 
         // Check each character of the first string.
