@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fatimaaziz27/LEET_CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fatimaaziz27/LEET_CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/fatimaaziz27/LEET_CODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/fatimaaziz27/LEET_CODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/fatimaaziz27/LEET_CODE/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
